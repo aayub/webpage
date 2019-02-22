@@ -1,1 +1,1 @@
-aayub.github.io/website
+aayub.github.io/webpage
